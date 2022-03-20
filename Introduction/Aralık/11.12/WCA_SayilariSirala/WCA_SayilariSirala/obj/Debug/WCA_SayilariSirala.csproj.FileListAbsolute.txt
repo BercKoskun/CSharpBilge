@@ -1,0 +1,7 @@
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Aralık\11.12\WCA_SayilariSirala\WCA_SayilariSirala\bin\Debug\WCA_SayilariSirala.exe.config
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Aralık\11.12\WCA_SayilariSirala\WCA_SayilariSirala\bin\Debug\WCA_SayilariSirala.exe
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Aralık\11.12\WCA_SayilariSirala\WCA_SayilariSirala\bin\Debug\WCA_SayilariSirala.pdb
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Aralık\11.12\WCA_SayilariSirala\WCA_SayilariSirala\obj\Debug\WCA_SayilariSirala.csproj.AssemblyReference.cache
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Aralık\11.12\WCA_SayilariSirala\WCA_SayilariSirala\obj\Debug\WCA_SayilariSirala.csproj.CoreCompileInputs.cache
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Aralık\11.12\WCA_SayilariSirala\WCA_SayilariSirala\obj\Debug\WCA_SayilariSirala.exe
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Aralık\11.12\WCA_SayilariSirala\WCA_SayilariSirala\obj\Debug\WCA_SayilariSirala.pdb

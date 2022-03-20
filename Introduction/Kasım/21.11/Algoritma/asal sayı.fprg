@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="ridvan.aksoy"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2021-11-20 02:21:57 &#214;S"/>
+        <attribute name="created" value="cmlkdmFuLmFrc295O0tES0xUMTAwMDsyMDIxLTExLTIwOzAxOjE3OjAzIMOWUzszMjE3"/>
+        <attribute name="edited" value="cmlkdmFuLmFrc295O0tES0xUMTAwMDsyMDIxLTExLTIwOzAyOjIxOjU3IMOWUzsxOzMzMzA="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="girilensayi" type="Integer" array="False" size=""/>
+            <declare name="i" type="Integer" array="False" size=""/>
+            <output expression="&quot;Asal oldu&#287;unu d&#252;&#351;&#252;nd&#252;&#287;&#252;n say&#305;y&#305; gir&quot;" newline="True"/>
+            <input variable="girilensayi"/>
+            <if expression="girilensayi=2">
+                <then>
+                    <output expression="&quot;Say&#305; Asald&#305;r: &quot;" newline="False"/>
+                    <output expression="girilensayi" newline="True"/>
+                </then>
+                <else>
+                    <for variable="i" start="2" end="girilensayi/2" direction="inc" step="1">
+                        <if expression="girilensayi%i=0">
+                            <then>
+                                <output expression="&quot;Say&#305; Asal De&#287;ildir: &quot;" newline="False"/>
+                                <output expression="girilensayi" newline="True"/>
+                                <breakpoint/>
+                            </then>
+                            <else/>
+                        </if>
+                    </for>
+                    <output expression="&quot;Girilen Say&#305; Asald&#305;r : &quot;" newline="False"/>
+                    <output expression="girilensayi" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>

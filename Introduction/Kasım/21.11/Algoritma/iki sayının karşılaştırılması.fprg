@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="ridvan.aksoy"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2021-11-21 10:58:12 &#214;&#214;"/>
+        <attribute name="created" value="cmlkdmFuLmFrc295O0tES0xUMTAwMDsyMDIxLTExLTIxOzEwOjQ4OjU4IMOWw5Y7MzM2Mw=="/>
+        <attribute name="edited" value="cmlkdmFuLmFrc295O0tES0xUMTAwMDsyMDIxLTExLTIxOzEwOjU4OjEyIMOWw5Y7MTszNDYy"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="x, y, sonuc" type="Integer" array="False" size=""/>
+            <output expression="&quot;Birinci Say&#305;y&#305; Gir :&quot;" newline="False"/>
+            <input variable="x"/>
+            <output expression="&quot;&#304;kinci Say&#305;y&#305; Gir: &quot;" newline="False"/>
+            <input variable="y"/>
+            <assign variable="sonuc" expression="x-y"/>
+            <if expression="sonuc&gt;0">
+                <then>
+                    <output expression="x" newline="False"/>
+                    <output expression="&quot;&gt;&quot;" newline="False"/>
+                    <output expression="y" newline="True"/>
+                </then>
+                <else>
+                    <if expression="sonuc&lt;0">
+                        <then>
+                            <output expression="y" newline="False"/>
+                            <output expression="&quot;&gt;&quot;" newline="False"/>
+                            <output expression="x" newline="True"/>
+                        </then>
+                        <else>
+                            <output expression="y" newline="False"/>
+                            <output expression="&quot;=&quot;" newline="False"/>
+                            <output expression="x" newline="True"/>
+                        </else>
+                    </if>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>

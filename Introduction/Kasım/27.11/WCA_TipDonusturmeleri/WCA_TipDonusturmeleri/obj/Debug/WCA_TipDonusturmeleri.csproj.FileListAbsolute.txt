@@ -1,7 +1,0 @@
-C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Kasım\27.11\WCA_TipDonusturmeleri\WCA_TipDonusturmeleri\bin\Debug\WCA_TipDonusturmeleri.exe.config
-C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Kasım\27.11\WCA_TipDonusturmeleri\WCA_TipDonusturmeleri\bin\Debug\WCA_TipDonusturmeleri.exe
-C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Kasım\27.11\WCA_TipDonusturmeleri\WCA_TipDonusturmeleri\bin\Debug\WCA_TipDonusturmeleri.pdb
-C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Kasım\27.11\WCA_TipDonusturmeleri\WCA_TipDonusturmeleri\obj\Debug\WCA_TipDonusturmeleri.csproj.AssemblyReference.cache
-C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Kasım\27.11\WCA_TipDonusturmeleri\WCA_TipDonusturmeleri\obj\Debug\WCA_TipDonusturmeleri.csproj.CoreCompileInputs.cache
-C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Kasım\27.11\WCA_TipDonusturmeleri\WCA_TipDonusturmeleri\obj\Debug\WCA_TipDonusturmeleri.exe
-C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Kasım\27.11\WCA_TipDonusturmeleri\WCA_TipDonusturmeleri\obj\Debug\WCA_TipDonusturmeleri.pdb

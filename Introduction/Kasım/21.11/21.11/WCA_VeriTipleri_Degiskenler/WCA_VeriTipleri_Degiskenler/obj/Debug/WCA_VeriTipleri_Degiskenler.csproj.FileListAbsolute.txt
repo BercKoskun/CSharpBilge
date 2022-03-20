@@ -1,7 +1,0 @@
-C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Kasım\21.11\WCA_VeriTipleri_Degiskenler\WCA_VeriTipleri_Degiskenler\bin\Debug\WCA_VeriTipleri_Degiskenler.exe.config
-C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Kasım\21.11\WCA_VeriTipleri_Degiskenler\WCA_VeriTipleri_Degiskenler\bin\Debug\WCA_VeriTipleri_Degiskenler.exe
-C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Kasım\21.11\WCA_VeriTipleri_Degiskenler\WCA_VeriTipleri_Degiskenler\bin\Debug\WCA_VeriTipleri_Degiskenler.pdb
-C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Kasım\21.11\WCA_VeriTipleri_Degiskenler\WCA_VeriTipleri_Degiskenler\obj\Debug\WCA_VeriTipleri_Degiskenler.csproj.AssemblyReference.cache
-C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Kasım\21.11\WCA_VeriTipleri_Degiskenler\WCA_VeriTipleri_Degiskenler\obj\Debug\WCA_VeriTipleri_Degiskenler.csproj.CoreCompileInputs.cache
-C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Kasım\21.11\WCA_VeriTipleri_Degiskenler\WCA_VeriTipleri_Degiskenler\obj\Debug\WCA_VeriTipleri_Degiskenler.exe
-C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Kasım\21.11\WCA_VeriTipleri_Degiskenler\WCA_VeriTipleri_Degiskenler\obj\Debug\WCA_VeriTipleri_Degiskenler.pdb

@@ -1,7 +1,0 @@
-C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Kasım\27.11\WCA_HataYakalama_Ayiklama\WCA_HataYakalama_Ayiklama\obj\Debug\WCA_HataYakalama_Ayiklama.csproj.CoreCompileInputs.cache
-C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Kasım\27.11\WCA_HataYakalama_Ayiklama\WCA_HataYakalama_Ayiklama\bin\Debug\WCA_HataYakalama_Ayiklama.exe.config
-C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Kasım\27.11\WCA_HataYakalama_Ayiklama\WCA_HataYakalama_Ayiklama\bin\Debug\WCA_HataYakalama_Ayiklama.exe
-C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Kasım\27.11\WCA_HataYakalama_Ayiklama\WCA_HataYakalama_Ayiklama\bin\Debug\WCA_HataYakalama_Ayiklama.pdb
-C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Kasım\27.11\WCA_HataYakalama_Ayiklama\WCA_HataYakalama_Ayiklama\obj\Debug\WCA_HataYakalama_Ayiklama.csproj.AssemblyReference.cache
-C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Kasım\27.11\WCA_HataYakalama_Ayiklama\WCA_HataYakalama_Ayiklama\obj\Debug\WCA_HataYakalama_Ayiklama.exe
-C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Kasım\27.11\WCA_HataYakalama_Ayiklama\WCA_HataYakalama_Ayiklama\obj\Debug\WCA_HataYakalama_Ayiklama.pdb

@@ -1,7 +1,0 @@
-C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Kasım\27.11\WCA_ArtimetikOperatorler\WCA_ArtimetikOperatorler\bin\Debug\WCA_ArtimetikOperatorler.exe.config
-C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Kasım\27.11\WCA_ArtimetikOperatorler\WCA_ArtimetikOperatorler\bin\Debug\WCA_ArtimetikOperatorler.exe
-C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Kasım\27.11\WCA_ArtimetikOperatorler\WCA_ArtimetikOperatorler\bin\Debug\WCA_ArtimetikOperatorler.pdb
-C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Kasım\27.11\WCA_ArtimetikOperatorler\WCA_ArtimetikOperatorler\obj\Debug\WCA_ArtimetikOperatorler.csproj.AssemblyReference.cache
-C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Kasım\27.11\WCA_ArtimetikOperatorler\WCA_ArtimetikOperatorler\obj\Debug\WCA_ArtimetikOperatorler.csproj.CoreCompileInputs.cache
-C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Kasım\27.11\WCA_ArtimetikOperatorler\WCA_ArtimetikOperatorler\obj\Debug\WCA_ArtimetikOperatorler.exe
-C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Kasım\27.11\WCA_ArtimetikOperatorler\WCA_ArtimetikOperatorler\obj\Debug\WCA_ArtimetikOperatorler.pdb

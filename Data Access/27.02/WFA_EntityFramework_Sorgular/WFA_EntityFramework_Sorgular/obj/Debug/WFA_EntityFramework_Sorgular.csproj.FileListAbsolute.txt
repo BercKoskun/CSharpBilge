@@ -1,0 +1,15 @@
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\WFA_EntityFramework_Sorgular\WFA_EntityFramework_Sorgular\bin\Debug\WFA_EntityFramework_Sorgular.exe.config
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\WFA_EntityFramework_Sorgular\WFA_EntityFramework_Sorgular\bin\Debug\WFA_EntityFramework_Sorgular.exe
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\WFA_EntityFramework_Sorgular\WFA_EntityFramework_Sorgular\bin\Debug\WFA_EntityFramework_Sorgular.pdb
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\WFA_EntityFramework_Sorgular\WFA_EntityFramework_Sorgular\bin\Debug\EntityFramework.dll
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\WFA_EntityFramework_Sorgular\WFA_EntityFramework_Sorgular\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\WFA_EntityFramework_Sorgular\WFA_EntityFramework_Sorgular\bin\Debug\EntityFramework.xml
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\WFA_EntityFramework_Sorgular\WFA_EntityFramework_Sorgular\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\WFA_EntityFramework_Sorgular\WFA_EntityFramework_Sorgular\obj\Debug\WFA_EntityFramework_Sorgular.csproj.AssemblyReference.cache
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\WFA_EntityFramework_Sorgular\WFA_EntityFramework_Sorgular\obj\Debug\WFA_EntityFramework_Sorgular.Form1.resources
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\WFA_EntityFramework_Sorgular\WFA_EntityFramework_Sorgular\obj\Debug\WFA_EntityFramework_Sorgular.Properties.Resources.resources
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\WFA_EntityFramework_Sorgular\WFA_EntityFramework_Sorgular\obj\Debug\WFA_EntityFramework_Sorgular.csproj.GenerateResource.cache
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\WFA_EntityFramework_Sorgular\WFA_EntityFramework_Sorgular\obj\Debug\WFA_EntityFramework_Sorgular.csproj.CoreCompileInputs.cache
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\WFA_EntityFramework_Sorgular\WFA_EntityFramework_Sorgular\obj\Debug\WFA_EntityFramework_Sorgular.csproj.CopyComplete
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\WFA_EntityFramework_Sorgular\WFA_EntityFramework_Sorgular\obj\Debug\WFA_EntityFramework_Sorgular.exe
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\WFA_EntityFramework_Sorgular\WFA_EntityFramework_Sorgular\obj\Debug\WFA_EntityFramework_Sorgular.pdb

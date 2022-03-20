@@ -1,0 +1,15 @@
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\WFA_EntityFramework_DbFirst\WFA_EntityFramework_DbFirst\bin\Debug\WFA_EntityFramework_DbFirst.exe.config
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\WFA_EntityFramework_DbFirst\WFA_EntityFramework_DbFirst\bin\Debug\WFA_EntityFramework_DbFirst.exe
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\WFA_EntityFramework_DbFirst\WFA_EntityFramework_DbFirst\bin\Debug\WFA_EntityFramework_DbFirst.pdb
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\WFA_EntityFramework_DbFirst\WFA_EntityFramework_DbFirst\bin\Debug\EntityFramework.dll
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\WFA_EntityFramework_DbFirst\WFA_EntityFramework_DbFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\WFA_EntityFramework_DbFirst\WFA_EntityFramework_DbFirst\bin\Debug\EntityFramework.xml
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\WFA_EntityFramework_DbFirst\WFA_EntityFramework_DbFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\WFA_EntityFramework_DbFirst\WFA_EntityFramework_DbFirst\obj\Debug\WFA_EntityFramework_DbFirst.csproj.AssemblyReference.cache
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\WFA_EntityFramework_DbFirst\WFA_EntityFramework_DbFirst\obj\Debug\WFA_EntityFramework_DbFirst.Form1.resources
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\WFA_EntityFramework_DbFirst\WFA_EntityFramework_DbFirst\obj\Debug\WFA_EntityFramework_DbFirst.Properties.Resources.resources
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\WFA_EntityFramework_DbFirst\WFA_EntityFramework_DbFirst\obj\Debug\WFA_EntityFramework_DbFirst.csproj.GenerateResource.cache
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\WFA_EntityFramework_DbFirst\WFA_EntityFramework_DbFirst\obj\Debug\WFA_EntityFramework_DbFirst.csproj.CoreCompileInputs.cache
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\WFA_EntityFramework_DbFirst\WFA_EntityFramework_DbFirst\obj\Debug\WFA_EntityFramework_DbFirst.csproj.CopyComplete
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\WFA_EntityFramework_DbFirst\WFA_EntityFramework_DbFirst\obj\Debug\WFA_EntityFramework_DbFirst.exe
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\WFA_EntityFramework_DbFirst\WFA_EntityFramework_DbFirst\obj\Debug\WFA_EntityFramework_DbFirst.pdb

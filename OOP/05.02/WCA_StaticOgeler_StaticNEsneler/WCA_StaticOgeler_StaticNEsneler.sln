@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCA_StaticOgeler_StaticNEsneler", "WCA_StaticOgeler_StaticNEsneler\WCA_StaticOgeler_StaticNEsneler.csproj", "{D4EAC985-7C72-4020-A792-02333D6EA2C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFA_StaticOrnegi", "WFA_StaticOrnegi\WFA_StaticOrnegi.csproj", "{01366B43-B711-4D92-8B7B-478CBC0C75A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4EAC985-7C72-4020-A792-02333D6EA2C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4EAC985-7C72-4020-A792-02333D6EA2C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4EAC985-7C72-4020-A792-02333D6EA2C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4EAC985-7C72-4020-A792-02333D6EA2C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01366B43-B711-4D92-8B7B-478CBC0C75A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01366B43-B711-4D92-8B7B-478CBC0C75A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01366B43-B711-4D92-8B7B-478CBC0C75A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01366B43-B711-4D92-8B7B-478CBC0C75A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C9AA991-68A0-4EA6-9995-32EEB332EB7F}
+	EndGlobalSection
+EndGlobal

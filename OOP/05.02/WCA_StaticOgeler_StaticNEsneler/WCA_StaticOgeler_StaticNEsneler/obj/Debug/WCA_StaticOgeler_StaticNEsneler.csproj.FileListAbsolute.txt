@@ -1,0 +1,7 @@
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Şubat\05.02\WCA_StaticOgeler_StaticNEsneler\WCA_StaticOgeler_StaticNEsneler\bin\Debug\WCA_StaticOgeler_StaticNEsneler.exe.config
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Şubat\05.02\WCA_StaticOgeler_StaticNEsneler\WCA_StaticOgeler_StaticNEsneler\bin\Debug\WCA_StaticOgeler_StaticNEsneler.exe
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Şubat\05.02\WCA_StaticOgeler_StaticNEsneler\WCA_StaticOgeler_StaticNEsneler\bin\Debug\WCA_StaticOgeler_StaticNEsneler.pdb
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Şubat\05.02\WCA_StaticOgeler_StaticNEsneler\WCA_StaticOgeler_StaticNEsneler\obj\Debug\WCA_StaticOgeler_StaticNEsneler.csproj.AssemblyReference.cache
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Şubat\05.02\WCA_StaticOgeler_StaticNEsneler\WCA_StaticOgeler_StaticNEsneler\obj\Debug\WCA_StaticOgeler_StaticNEsneler.csproj.CoreCompileInputs.cache
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Şubat\05.02\WCA_StaticOgeler_StaticNEsneler\WCA_StaticOgeler_StaticNEsneler\obj\Debug\WCA_StaticOgeler_StaticNEsneler.exe
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Şubat\05.02\WCA_StaticOgeler_StaticNEsneler\WCA_StaticOgeler_StaticNEsneler\obj\Debug\WCA_StaticOgeler_StaticNEsneler.pdb

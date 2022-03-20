@@ -1,0 +1,7 @@
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Şubat\05.02\WFA_Class_vs_Struct\WFA_Class_vs_Struct\bin\Debug\WFA_Class_vs_Struct.exe.config
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Şubat\05.02\WFA_Class_vs_Struct\WFA_Class_vs_Struct\bin\Debug\WFA_Class_vs_Struct.exe
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Şubat\05.02\WFA_Class_vs_Struct\WFA_Class_vs_Struct\bin\Debug\WFA_Class_vs_Struct.pdb
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Şubat\05.02\WFA_Class_vs_Struct\WFA_Class_vs_Struct\obj\Debug\WFA_Class_vs_Struct.csproj.AssemblyReference.cache
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Şubat\05.02\WFA_Class_vs_Struct\WFA_Class_vs_Struct\obj\Debug\WFA_Class_vs_Struct.csproj.CoreCompileInputs.cache
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Şubat\05.02\WFA_Class_vs_Struct\WFA_Class_vs_Struct\obj\Debug\WFA_Class_vs_Struct.exe
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Şubat\05.02\WFA_Class_vs_Struct\WFA_Class_vs_Struct\obj\Debug\WFA_Class_vs_Struct.pdb

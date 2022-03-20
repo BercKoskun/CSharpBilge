@@ -1,0 +1,10 @@
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Şubat\05.02\WCA_StaticOgeler_StaticNEsneler\WFA_StaticOrnegi\bin\Debug\WFA_StaticOrnegi.exe.config
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Şubat\05.02\WCA_StaticOgeler_StaticNEsneler\WFA_StaticOrnegi\bin\Debug\WFA_StaticOrnegi.exe
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Şubat\05.02\WCA_StaticOgeler_StaticNEsneler\WFA_StaticOrnegi\bin\Debug\WFA_StaticOrnegi.pdb
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Şubat\05.02\WCA_StaticOgeler_StaticNEsneler\WFA_StaticOrnegi\obj\Debug\WFA_StaticOrnegi.csproj.AssemblyReference.cache
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Şubat\05.02\WCA_StaticOgeler_StaticNEsneler\WFA_StaticOrnegi\obj\Debug\WFA_StaticOrnegi.Form1.resources
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Şubat\05.02\WCA_StaticOgeler_StaticNEsneler\WFA_StaticOrnegi\obj\Debug\WFA_StaticOrnegi.Properties.Resources.resources
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Şubat\05.02\WCA_StaticOgeler_StaticNEsneler\WFA_StaticOrnegi\obj\Debug\WFA_StaticOrnegi.csproj.GenerateResource.cache
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Şubat\05.02\WCA_StaticOgeler_StaticNEsneler\WFA_StaticOrnegi\obj\Debug\WFA_StaticOrnegi.csproj.CoreCompileInputs.cache
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Şubat\05.02\WCA_StaticOgeler_StaticNEsneler\WFA_StaticOrnegi\obj\Debug\WFA_StaticOrnegi.exe
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Şubat\05.02\WCA_StaticOgeler_StaticNEsneler\WFA_StaticOrnegi\obj\Debug\WFA_StaticOrnegi.pdb

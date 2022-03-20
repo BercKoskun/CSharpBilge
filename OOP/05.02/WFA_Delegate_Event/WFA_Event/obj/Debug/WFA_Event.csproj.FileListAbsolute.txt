@@ -1,0 +1,10 @@
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Şubat\05.02\WFA_Delegate_Event\WFA_Event\bin\Debug\WFA_Event.exe.config
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Şubat\05.02\WFA_Delegate_Event\WFA_Event\bin\Debug\WFA_Event.exe
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Şubat\05.02\WFA_Delegate_Event\WFA_Event\bin\Debug\WFA_Event.pdb
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Şubat\05.02\WFA_Delegate_Event\WFA_Event\obj\Debug\WFA_Event.csproj.AssemblyReference.cache
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Şubat\05.02\WFA_Delegate_Event\WFA_Event\obj\Debug\WFA_Event.Form1.resources
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Şubat\05.02\WFA_Delegate_Event\WFA_Event\obj\Debug\WFA_Event.Properties.Resources.resources
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Şubat\05.02\WFA_Delegate_Event\WFA_Event\obj\Debug\WFA_Event.csproj.GenerateResource.cache
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Şubat\05.02\WFA_Delegate_Event\WFA_Event\obj\Debug\WFA_Event.csproj.CoreCompileInputs.cache
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Şubat\05.02\WFA_Delegate_Event\WFA_Event\obj\Debug\WFA_Event.exe
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Şubat\05.02\WFA_Delegate_Event\WFA_Event\obj\Debug\WFA_Event.pdb

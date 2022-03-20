@@ -1,0 +1,10 @@
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Şubat\06.02\WFA_OOP_Collections\WFA_OOP_Collections\bin\Debug\WFA_OOP_Collections.exe.config
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Şubat\06.02\WFA_OOP_Collections\WFA_OOP_Collections\bin\Debug\WFA_OOP_Collections.exe
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Şubat\06.02\WFA_OOP_Collections\WFA_OOP_Collections\bin\Debug\WFA_OOP_Collections.pdb
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Şubat\06.02\WFA_OOP_Collections\WFA_OOP_Collections\obj\Debug\WFA_OOP_Collections.csproj.AssemblyReference.cache
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Şubat\06.02\WFA_OOP_Collections\WFA_OOP_Collections\obj\Debug\WFA_OOP_Collections.Form1.resources
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Şubat\06.02\WFA_OOP_Collections\WFA_OOP_Collections\obj\Debug\WFA_OOP_Collections.Properties.Resources.resources
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Şubat\06.02\WFA_OOP_Collections\WFA_OOP_Collections\obj\Debug\WFA_OOP_Collections.csproj.GenerateResource.cache
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Şubat\06.02\WFA_OOP_Collections\WFA_OOP_Collections\obj\Debug\WFA_OOP_Collections.csproj.CoreCompileInputs.cache
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Şubat\06.02\WFA_OOP_Collections\WFA_OOP_Collections\obj\Debug\WFA_OOP_Collections.exe
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Şubat\06.02\WFA_OOP_Collections\WFA_OOP_Collections\obj\Debug\WFA_OOP_Collections.pdb

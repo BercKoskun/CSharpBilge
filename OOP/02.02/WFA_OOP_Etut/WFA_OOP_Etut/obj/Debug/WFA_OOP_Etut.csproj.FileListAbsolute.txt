@@ -1,0 +1,10 @@
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Şubat\02.02\WFA_OOP_Etut\WFA_OOP_Etut\bin\Debug\WFA_OOP_Etut.exe.config
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Şubat\02.02\WFA_OOP_Etut\WFA_OOP_Etut\bin\Debug\WFA_OOP_Etut.exe
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Şubat\02.02\WFA_OOP_Etut\WFA_OOP_Etut\bin\Debug\WFA_OOP_Etut.pdb
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Şubat\02.02\WFA_OOP_Etut\WFA_OOP_Etut\obj\Debug\WFA_OOP_Etut.csproj.AssemblyReference.cache
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Şubat\02.02\WFA_OOP_Etut\WFA_OOP_Etut\obj\Debug\WFA_OOP_Etut.Form1.resources
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Şubat\02.02\WFA_OOP_Etut\WFA_OOP_Etut\obj\Debug\WFA_OOP_Etut.Properties.Resources.resources
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Şubat\02.02\WFA_OOP_Etut\WFA_OOP_Etut\obj\Debug\WFA_OOP_Etut.csproj.GenerateResource.cache
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Şubat\02.02\WFA_OOP_Etut\WFA_OOP_Etut\obj\Debug\WFA_OOP_Etut.csproj.CoreCompileInputs.cache
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Şubat\02.02\WFA_OOP_Etut\WFA_OOP_Etut\obj\Debug\WFA_OOP_Etut.exe
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Şubat\02.02\WFA_OOP_Etut\WFA_OOP_Etut\obj\Debug\WFA_OOP_Etut.pdb

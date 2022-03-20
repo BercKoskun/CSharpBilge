@@ -1,0 +1,14 @@
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\CodeFirst\WFA_CodeFirst\WFA_CodeFirst\bin\Debug\WFA_CodeFirst.exe.config
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\CodeFirst\WFA_CodeFirst\WFA_CodeFirst\bin\Debug\WFA_CodeFirst.exe
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\CodeFirst\WFA_CodeFirst\WFA_CodeFirst\bin\Debug\WFA_CodeFirst.pdb
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\CodeFirst\WFA_CodeFirst\WFA_CodeFirst\obj\Debug\WFA_CodeFirst.csproj.AssemblyReference.cache
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\CodeFirst\WFA_CodeFirst\WFA_CodeFirst\obj\Debug\WFA_CodeFirst.Properties.Resources.resources
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\CodeFirst\WFA_CodeFirst\WFA_CodeFirst\obj\Debug\WFA_CodeFirst.csproj.GenerateResource.cache
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\CodeFirst\WFA_CodeFirst\WFA_CodeFirst\obj\Debug\WFA_CodeFirst.csproj.CoreCompileInputs.cache
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\CodeFirst\WFA_CodeFirst\WFA_CodeFirst\obj\Debug\WFA_CodeFirst.exe
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\CodeFirst\WFA_CodeFirst\WFA_CodeFirst\obj\Debug\WFA_CodeFirst.pdb
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\CodeFirst\WFA_CodeFirst\WFA_CodeFirst\bin\Debug\EntityFramework.dll
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\CodeFirst\WFA_CodeFirst\WFA_CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\CodeFirst\WFA_CodeFirst\WFA_CodeFirst\bin\Debug\EntityFramework.xml
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\CodeFirst\WFA_CodeFirst\WFA_CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\CodeFirst\WFA_CodeFirst\WFA_CodeFirst\obj\Debug\WFA_CodeFirst.csproj.CopyComplete

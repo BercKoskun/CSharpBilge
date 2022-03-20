@@ -1,0 +1,17 @@
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\NTierApp_Repository\NtierApp_Repository\NtierApp_Repository.BLL\bin\Debug\NtierApp_Repository.BLL.dll
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\NTierApp_Repository\NtierApp_Repository\NtierApp_Repository.BLL\bin\Debug\NtierApp_Repository.BLL.pdb
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\NTierApp_Repository\NtierApp_Repository\NtierApp_Repository.BLL\obj\Debug\NtierApp_Repository.BLL.csproj.AssemblyReference.cache
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\NTierApp_Repository\NtierApp_Repository\NtierApp_Repository.BLL\obj\Debug\NtierApp_Repository.BLL.csproj.CoreCompileInputs.cache
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\NTierApp_Repository\NtierApp_Repository\NtierApp_Repository.BLL\obj\Debug\NtierApp_Repository.BLL.dll
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\NTierApp_Repository\NtierApp_Repository\NtierApp_Repository.BLL\obj\Debug\NtierApp_Repository.BLL.pdb
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\NTierApp_Repository\NtierApp_Repository\NtierApp_Repository.BLL\bin\Debug\NtierApp_Repository.BLL.dll.config
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\NTierApp_Repository\NtierApp_Repository\NtierApp_Repository.BLL\bin\Debug\EntityFramework.dll
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\NTierApp_Repository\NtierApp_Repository\NtierApp_Repository.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\NTierApp_Repository\NtierApp_Repository\NtierApp_Repository.BLL\bin\Debug\NtierApp_Repository.DataContext.dll
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\NTierApp_Repository\NtierApp_Repository\NtierApp_Repository.BLL\bin\Debug\NtierApp_Repository.Entity.dll
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\NTierApp_Repository\NtierApp_Repository\NtierApp_Repository.BLL\bin\Debug\NtierApp_Repository.DataContext.pdb
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\NTierApp_Repository\NtierApp_Repository\NtierApp_Repository.BLL\bin\Debug\NtierApp_Repository.DataContext.dll.config
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\NTierApp_Repository\NtierApp_Repository\NtierApp_Repository.BLL\bin\Debug\NtierApp_Repository.Entity.pdb
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\NTierApp_Repository\NtierApp_Repository\NtierApp_Repository.BLL\bin\Debug\EntityFramework.xml
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\NTierApp_Repository\NtierApp_Repository\NtierApp_Repository.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\NTierApp_Repository\NtierApp_Repository\NtierApp_Repository.BLL\obj\Debug\NtierApp_Repository.BLL.csproj.CopyComplete

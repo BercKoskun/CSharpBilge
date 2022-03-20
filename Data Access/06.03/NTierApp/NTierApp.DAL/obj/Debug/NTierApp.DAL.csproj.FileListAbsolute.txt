@@ -1,0 +1,12 @@
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\NTierApp\NTierApp.DAL\bin\Debug\NTierApp.DAL.dll.config
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\NTierApp\NTierApp.DAL\bin\Debug\NTierApp.DAL.dll
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\NTierApp\NTierApp.DAL\bin\Debug\NTierApp.DAL.pdb
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\NTierApp\NTierApp.DAL\bin\Debug\EntityFramework.dll
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\NTierApp\NTierApp.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\NTierApp\NTierApp.DAL\bin\Debug\EntityFramework.xml
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\NTierApp\NTierApp.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\NTierApp\NTierApp.DAL\obj\Debug\NTierApp.DAL.csproj.AssemblyReference.cache
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\NTierApp\NTierApp.DAL\obj\Debug\NTierApp.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\NTierApp\NTierApp.DAL\obj\Debug\NTierApp.DAL.csproj.CopyComplete
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\NTierApp\NTierApp.DAL\obj\Debug\NTierApp.DAL.dll
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\NTierApp\NTierApp.DAL\obj\Debug\NTierApp.DAL.pdb

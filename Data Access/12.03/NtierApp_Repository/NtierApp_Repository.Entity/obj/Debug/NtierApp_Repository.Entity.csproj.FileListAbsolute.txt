@@ -1,0 +1,6 @@
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\NTierApp_Repository\NtierApp_Repository\NtierApp_Repository.Entity\bin\Debug\NtierApp_Repository.Entity.dll
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\NTierApp_Repository\NtierApp_Repository\NtierApp_Repository.Entity\bin\Debug\NtierApp_Repository.Entity.pdb
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\NTierApp_Repository\NtierApp_Repository\NtierApp_Repository.Entity\obj\Debug\NtierApp_Repository.Entity.csproj.AssemblyReference.cache
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\NTierApp_Repository\NtierApp_Repository\NtierApp_Repository.Entity\obj\Debug\NtierApp_Repository.Entity.csproj.CoreCompileInputs.cache
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\NTierApp_Repository\NtierApp_Repository\NtierApp_Repository.Entity\obj\Debug\NtierApp_Repository.Entity.dll
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\NTierApp_Repository\NtierApp_Repository\NtierApp_Repository.Entity\obj\Debug\NtierApp_Repository.Entity.pdb

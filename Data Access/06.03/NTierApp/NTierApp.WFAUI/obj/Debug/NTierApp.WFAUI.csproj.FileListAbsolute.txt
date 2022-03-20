@@ -1,0 +1,14 @@
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\NTierApp\NTierApp.WFAUI\bin\Debug\NTierApp.WFAUI.exe.config
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\NTierApp\NTierApp.WFAUI\bin\Debug\NTierApp.WFAUI.exe
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\NTierApp\NTierApp.WFAUI\bin\Debug\NTierApp.WFAUI.pdb
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\NTierApp\NTierApp.WFAUI\bin\Debug\EntityFramework.dll
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\NTierApp\NTierApp.WFAUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\NTierApp\NTierApp.WFAUI\bin\Debug\EntityFramework.xml
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\NTierApp\NTierApp.WFAUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\NTierApp\NTierApp.WFAUI\obj\Debug\NTierApp.WFAUI.csproj.AssemblyReference.cache
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\NTierApp\NTierApp.WFAUI\obj\Debug\NTierApp.WFAUI.Properties.Resources.resources
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\NTierApp\NTierApp.WFAUI\obj\Debug\NTierApp.WFAUI.csproj.GenerateResource.cache
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\NTierApp\NTierApp.WFAUI\obj\Debug\NTierApp.WFAUI.csproj.CoreCompileInputs.cache
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\NTierApp\NTierApp.WFAUI\obj\Debug\NTierApp.WFAUI.csproj.CopyComplete
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\NTierApp\NTierApp.WFAUI\obj\Debug\NTierApp.WFAUI.exe
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\5-Data Access\NTierApp\NTierApp.WFAUI\obj\Debug\NTierApp.WFAUI.pdb

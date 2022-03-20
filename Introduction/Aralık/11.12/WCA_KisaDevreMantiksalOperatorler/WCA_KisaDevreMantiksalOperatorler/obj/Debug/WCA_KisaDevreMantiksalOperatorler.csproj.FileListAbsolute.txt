@@ -1,0 +1,7 @@
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Aralık\11.12\WCA_KisaDevreMantiksalOperatorler\WCA_KisaDevreMantiksalOperatorler\bin\Debug\WCA_KisaDevreMantiksalOperatorler.exe.config
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Aralık\11.12\WCA_KisaDevreMantiksalOperatorler\WCA_KisaDevreMantiksalOperatorler\bin\Debug\WCA_KisaDevreMantiksalOperatorler.exe
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Aralık\11.12\WCA_KisaDevreMantiksalOperatorler\WCA_KisaDevreMantiksalOperatorler\bin\Debug\WCA_KisaDevreMantiksalOperatorler.pdb
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Aralık\11.12\WCA_KisaDevreMantiksalOperatorler\WCA_KisaDevreMantiksalOperatorler\obj\Debug\WCA_KisaDevreMantiksalOperatorler.csproj.AssemblyReference.cache
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Aralık\11.12\WCA_KisaDevreMantiksalOperatorler\WCA_KisaDevreMantiksalOperatorler\obj\Debug\WCA_KisaDevreMantiksalOperatorler.csproj.CoreCompileInputs.cache
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Aralık\11.12\WCA_KisaDevreMantiksalOperatorler\WCA_KisaDevreMantiksalOperatorler\obj\Debug\WCA_KisaDevreMantiksalOperatorler.exe
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Aralık\11.12\WCA_KisaDevreMantiksalOperatorler\WCA_KisaDevreMantiksalOperatorler\obj\Debug\WCA_KisaDevreMantiksalOperatorler.pdb

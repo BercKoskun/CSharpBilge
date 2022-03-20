@@ -1,0 +1,7 @@
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Ocak\09.01\WCA_Metotlar\WCA_Metotlar\obj\Debug\WCA_Metotlar.csproj.AssemblyReference.cache
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Ocak\09.01\WCA_Metotlar\WCA_Metotlar\obj\Debug\WCA_Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Ocak\09.01\WCA_Metotlar\WCA_Metotlar\bin\Debug\WCA_Metotlar.exe.config
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Ocak\09.01\WCA_Metotlar\WCA_Metotlar\bin\Debug\WCA_Metotlar.exe
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Ocak\09.01\WCA_Metotlar\WCA_Metotlar\bin\Debug\WCA_Metotlar.pdb
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Ocak\09.01\WCA_Metotlar\WCA_Metotlar\obj\Debug\WCA_Metotlar.exe
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Ocak\09.01\WCA_Metotlar\WCA_Metotlar\obj\Debug\WCA_Metotlar.pdb

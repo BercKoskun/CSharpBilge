@@ -1,0 +1,11 @@
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Ocak\29.01\WFA_Constructor\WFA_Constructor\bin\Debug\WFA_Constructor.exe.config
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Ocak\29.01\WFA_Constructor\WFA_Constructor\bin\Debug\WFA_Constructor.exe
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Ocak\29.01\WFA_Constructor\WFA_Constructor\bin\Debug\WFA_Constructor.pdb
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Ocak\29.01\WFA_Constructor\WFA_Constructor\obj\Debug\WFA_Constructor.csproj.AssemblyReference.cache
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Ocak\29.01\WFA_Constructor\WFA_Constructor\obj\Debug\WFA_Constructor.Form1.resources
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Ocak\29.01\WFA_Constructor\WFA_Constructor\obj\Debug\WFA_Constructor.Properties.Resources.resources
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Ocak\29.01\WFA_Constructor\WFA_Constructor\obj\Debug\WFA_Constructor.csproj.GenerateResource.cache
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Ocak\29.01\WFA_Constructor\WFA_Constructor\obj\Debug\WFA_Constructor.csproj.CoreCompileInputs.cache
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Ocak\29.01\WFA_Constructor\WFA_Constructor\obj\Debug\WFA_Constructor.exe
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Ocak\29.01\WFA_Constructor\WFA_Constructor\obj\Debug\WFA_Constructor.pdb
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Ocak\29.01\WFA_Constructor\WFA_Constructor\obj\Debug\WFA_Constructor.RenkCumbusu.resources

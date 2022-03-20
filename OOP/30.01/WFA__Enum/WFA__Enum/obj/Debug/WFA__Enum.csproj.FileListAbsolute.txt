@@ -1,0 +1,10 @@
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Ocak\30.01\WFA__Enum\WFA__Enum\bin\Debug\WFA__Enum.exe.config
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Ocak\30.01\WFA__Enum\WFA__Enum\bin\Debug\WFA__Enum.exe
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Ocak\30.01\WFA__Enum\WFA__Enum\bin\Debug\WFA__Enum.pdb
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Ocak\30.01\WFA__Enum\WFA__Enum\obj\Debug\WFA__Enum.csproj.AssemblyReference.cache
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Ocak\30.01\WFA__Enum\WFA__Enum\obj\Debug\WFA__Enum.Form1.resources
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Ocak\30.01\WFA__Enum\WFA__Enum\obj\Debug\WFA__Enum.Properties.Resources.resources
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Ocak\30.01\WFA__Enum\WFA__Enum\obj\Debug\WFA__Enum.csproj.GenerateResource.cache
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Ocak\30.01\WFA__Enum\WFA__Enum\obj\Debug\WFA__Enum.csproj.CoreCompileInputs.cache
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Ocak\30.01\WFA__Enum\WFA__Enum\obj\Debug\WFA__Enum.exe
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Ocak\30.01\WFA__Enum\WFA__Enum\obj\Debug\WFA__Enum.pdb

@@ -1,0 +1,10 @@
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Ocak\30.01\WFA_Kalitim\WFA_Kalitim\bin\Debug\WFA_Kalitim.exe.config
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Ocak\30.01\WFA_Kalitim\WFA_Kalitim\bin\Debug\WFA_Kalitim.exe
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Ocak\30.01\WFA_Kalitim\WFA_Kalitim\bin\Debug\WFA_Kalitim.pdb
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Ocak\30.01\WFA_Kalitim\WFA_Kalitim\obj\Debug\WFA_Kalitim.csproj.AssemblyReference.cache
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Ocak\30.01\WFA_Kalitim\WFA_Kalitim\obj\Debug\WFA_Kalitim.Form1.resources
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Ocak\30.01\WFA_Kalitim\WFA_Kalitim\obj\Debug\WFA_Kalitim.Properties.Resources.resources
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Ocak\30.01\WFA_Kalitim\WFA_Kalitim\obj\Debug\WFA_Kalitim.csproj.GenerateResource.cache
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Ocak\30.01\WFA_Kalitim\WFA_Kalitim\obj\Debug\WFA_Kalitim.csproj.CoreCompileInputs.cache
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Ocak\30.01\WFA_Kalitim\WFA_Kalitim\obj\Debug\WFA_Kalitim.exe
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Ocak\30.01\WFA_Kalitim\WFA_Kalitim\obj\Debug\WFA_Kalitim.pdb

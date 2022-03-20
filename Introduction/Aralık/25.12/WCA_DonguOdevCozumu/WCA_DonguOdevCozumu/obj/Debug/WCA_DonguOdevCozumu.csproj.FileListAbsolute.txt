@@ -1,7 +1,0 @@
-C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Aralık\25.12\WCA_DonguOdevCozumu\WCA_DonguOdevCozumu\bin\Debug\WCA_DonguOdevCozumu.exe.config
-C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Aralık\25.12\WCA_DonguOdevCozumu\WCA_DonguOdevCozumu\bin\Debug\WCA_DonguOdevCozumu.exe
-C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Aralık\25.12\WCA_DonguOdevCozumu\WCA_DonguOdevCozumu\bin\Debug\WCA_DonguOdevCozumu.pdb
-C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Aralık\25.12\WCA_DonguOdevCozumu\WCA_DonguOdevCozumu\obj\Debug\WCA_DonguOdevCozumu.csproj.AssemblyReference.cache
-C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Aralık\25.12\WCA_DonguOdevCozumu\WCA_DonguOdevCozumu\obj\Debug\WCA_DonguOdevCozumu.csproj.CoreCompileInputs.cache
-C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Aralık\25.12\WCA_DonguOdevCozumu\WCA_DonguOdevCozumu\obj\Debug\WCA_DonguOdevCozumu.exe
-C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Aralık\25.12\WCA_DonguOdevCozumu\WCA_DonguOdevCozumu\obj\Debug\WCA_DonguOdevCozumu.pdb

@@ -1,7 +1,0 @@
-C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Aralık\18.12\WCA_ArrayClass\WCA_ArrayClass\bin\Debug\WCA_ArrayClass.exe.config
-C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Aralık\18.12\WCA_ArrayClass\WCA_ArrayClass\bin\Debug\WCA_ArrayClass.exe
-C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Aralık\18.12\WCA_ArrayClass\WCA_ArrayClass\bin\Debug\WCA_ArrayClass.pdb
-C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Aralık\18.12\WCA_ArrayClass\WCA_ArrayClass\obj\Debug\WCA_ArrayClass.csproj.AssemblyReference.cache
-C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Aralık\18.12\WCA_ArrayClass\WCA_ArrayClass\obj\Debug\WCA_ArrayClass.csproj.CoreCompileInputs.cache
-C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Aralık\18.12\WCA_ArrayClass\WCA_ArrayClass\obj\Debug\WCA_ArrayClass.exe
-C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Aralık\18.12\WCA_ArrayClass\WCA_ArrayClass\obj\Debug\WCA_ArrayClass.pdb

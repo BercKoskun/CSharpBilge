@@ -1,7 +1,0 @@
-C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Aralık\19.12\WCA_IcIceDongu\WCA_IcIceDongu\bin\Debug\WCA_IcIceDongu.exe.config
-C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Aralık\19.12\WCA_IcIceDongu\WCA_IcIceDongu\bin\Debug\WCA_IcIceDongu.exe
-C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Aralık\19.12\WCA_IcIceDongu\WCA_IcIceDongu\bin\Debug\WCA_IcIceDongu.pdb
-C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Aralık\19.12\WCA_IcIceDongu\WCA_IcIceDongu\obj\Debug\WCA_IcIceDongu.csproj.AssemblyReference.cache
-C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Aralık\19.12\WCA_IcIceDongu\WCA_IcIceDongu\obj\Debug\WCA_IcIceDongu.csproj.CoreCompileInputs.cache
-C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Aralık\19.12\WCA_IcIceDongu\WCA_IcIceDongu\obj\Debug\WCA_IcIceDongu.exe
-C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Aralık\19.12\WCA_IcIceDongu\WCA_IcIceDongu\obj\Debug\WCA_IcIceDongu.pdb

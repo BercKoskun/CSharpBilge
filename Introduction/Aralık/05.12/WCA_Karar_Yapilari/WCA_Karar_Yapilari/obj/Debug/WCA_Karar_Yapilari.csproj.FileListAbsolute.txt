@@ -1,7 +1,0 @@
-C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Aralık\05.12\WCA_Karar_Yapilari\WCA_Karar_Yapilari\bin\Debug\WCA_Karar_Yapilari.exe.config
-C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Aralık\05.12\WCA_Karar_Yapilari\WCA_Karar_Yapilari\bin\Debug\WCA_Karar_Yapilari.exe
-C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Aralık\05.12\WCA_Karar_Yapilari\WCA_Karar_Yapilari\bin\Debug\WCA_Karar_Yapilari.pdb
-C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Aralık\05.12\WCA_Karar_Yapilari\WCA_Karar_Yapilari\obj\Debug\WCA_Karar_Yapilari.csproj.AssemblyReference.cache
-C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Aralık\05.12\WCA_Karar_Yapilari\WCA_Karar_Yapilari\obj\Debug\WCA_Karar_Yapilari.csproj.CoreCompileInputs.cache
-C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Aralık\05.12\WCA_Karar_Yapilari\WCA_Karar_Yapilari\obj\Debug\WCA_Karar_Yapilari.exe
-C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Aralık\05.12\WCA_Karar_Yapilari\WCA_Karar_Yapilari\obj\Debug\WCA_Karar_Yapilari.pdb

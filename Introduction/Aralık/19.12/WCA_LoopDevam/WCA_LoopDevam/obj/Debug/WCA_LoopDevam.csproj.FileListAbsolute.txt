@@ -1,7 +1,0 @@
-C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Aralık\19.12\WCA_LoopDevam\WCA_LoopDevam\bin\Debug\WCA_LoopDevam.exe.config
-C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Aralık\19.12\WCA_LoopDevam\WCA_LoopDevam\bin\Debug\WCA_LoopDevam.exe
-C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Aralık\19.12\WCA_LoopDevam\WCA_LoopDevam\bin\Debug\WCA_LoopDevam.pdb
-C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Aralık\19.12\WCA_LoopDevam\WCA_LoopDevam\obj\Debug\WCA_LoopDevam.csproj.AssemblyReference.cache
-C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Aralık\19.12\WCA_LoopDevam\WCA_LoopDevam\obj\Debug\WCA_LoopDevam.csproj.CoreCompileInputs.cache
-C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Aralık\19.12\WCA_LoopDevam\WCA_LoopDevam\obj\Debug\WCA_LoopDevam.exe
-C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Aralık\19.12\WCA_LoopDevam\WCA_LoopDevam\obj\Debug\WCA_LoopDevam.pdb

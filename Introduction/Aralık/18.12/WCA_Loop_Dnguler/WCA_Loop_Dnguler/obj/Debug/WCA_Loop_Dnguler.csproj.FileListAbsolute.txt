@@ -1,7 +1,0 @@
-C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Aralık\18.12\WCA_Loop_Dnguler\WCA_Loop_Dnguler\bin\Debug\WCA_Loop_Dnguler.exe.config
-C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Aralık\18.12\WCA_Loop_Dnguler\WCA_Loop_Dnguler\bin\Debug\WCA_Loop_Dnguler.exe
-C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Aralık\18.12\WCA_Loop_Dnguler\WCA_Loop_Dnguler\bin\Debug\WCA_Loop_Dnguler.pdb
-C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Aralık\18.12\WCA_Loop_Dnguler\WCA_Loop_Dnguler\obj\Debug\WCA_Loop_Dnguler.csproj.AssemblyReference.cache
-C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Aralık\18.12\WCA_Loop_Dnguler\WCA_Loop_Dnguler\obj\Debug\WCA_Loop_Dnguler.csproj.CoreCompileInputs.cache
-C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Aralık\18.12\WCA_Loop_Dnguler\WCA_Loop_Dnguler\obj\Debug\WCA_Loop_Dnguler.exe
-C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\2-Introduction\Aralık\18.12\WCA_Loop_Dnguler\WCA_Loop_Dnguler\obj\Debug\WCA_Loop_Dnguler.pdb

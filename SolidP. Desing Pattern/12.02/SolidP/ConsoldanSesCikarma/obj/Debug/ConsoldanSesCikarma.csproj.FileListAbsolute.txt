@@ -1,0 +1,10 @@
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\4-Solid ve Desing Pattern\Solid\12.02\SolidP\ConsoldanSesCikarma\bin\Debug\ConsoldanSesCikarma.exe.config
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\4-Solid ve Desing Pattern\Solid\12.02\SolidP\ConsoldanSesCikarma\bin\Debug\ConsoldanSesCikarma.exe
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\4-Solid ve Desing Pattern\Solid\12.02\SolidP\ConsoldanSesCikarma\bin\Debug\ConsoldanSesCikarma.pdb
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\4-Solid ve Desing Pattern\Solid\12.02\SolidP\ConsoldanSesCikarma\obj\Debug\ConsoldanSesCikarma.csproj.AssemblyReference.cache
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\4-Solid ve Desing Pattern\Solid\12.02\SolidP\ConsoldanSesCikarma\obj\Debug\ConsoldanSesCikarma.csproj.CoreCompileInputs.cache
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\4-Solid ve Desing Pattern\Solid\12.02\SolidP\ConsoldanSesCikarma\obj\Debug\ConsoldanSesCikarma.exe
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\4-Solid ve Desing Pattern\Solid\12.02\SolidP\ConsoldanSesCikarma\obj\Debug\ConsoldanSesCikarma.pdb
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\4-Solid ve Desing Pattern\Solid\12.02\SolidP\ConsoldanSesCikarma\bin\Debug\SolidP.Liskov.dll
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\4-Solid ve Desing Pattern\Solid\12.02\SolidP\ConsoldanSesCikarma\bin\Debug\SolidP.Liskov.pdb
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\4-Solid ve Desing Pattern\Solid\12.02\SolidP\ConsoldanSesCikarma\obj\Debug\ConsoldanSesCikarma.csproj.CopyComplete

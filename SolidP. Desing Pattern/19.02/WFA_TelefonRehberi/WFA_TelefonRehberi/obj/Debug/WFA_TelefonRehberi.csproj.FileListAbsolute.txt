@@ -1,0 +1,10 @@
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\4-Solid ve Desing Pattern\Solid\19.02\WFA_TelefonRehberi\WFA_TelefonRehberi\bin\Debug\WFA_TelefonRehberi.exe.config
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\4-Solid ve Desing Pattern\Solid\19.02\WFA_TelefonRehberi\WFA_TelefonRehberi\bin\Debug\WFA_TelefonRehberi.exe
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\4-Solid ve Desing Pattern\Solid\19.02\WFA_TelefonRehberi\WFA_TelefonRehberi\bin\Debug\WFA_TelefonRehberi.pdb
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\4-Solid ve Desing Pattern\Solid\19.02\WFA_TelefonRehberi\WFA_TelefonRehberi\obj\Debug\WFA_TelefonRehberi.csproj.AssemblyReference.cache
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\4-Solid ve Desing Pattern\Solid\19.02\WFA_TelefonRehberi\WFA_TelefonRehberi\obj\Debug\WFA_TelefonRehberi.Form1.resources
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\4-Solid ve Desing Pattern\Solid\19.02\WFA_TelefonRehberi\WFA_TelefonRehberi\obj\Debug\WFA_TelefonRehberi.Properties.Resources.resources
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\4-Solid ve Desing Pattern\Solid\19.02\WFA_TelefonRehberi\WFA_TelefonRehberi\obj\Debug\WFA_TelefonRehberi.csproj.GenerateResource.cache
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\4-Solid ve Desing Pattern\Solid\19.02\WFA_TelefonRehberi\WFA_TelefonRehberi\obj\Debug\WFA_TelefonRehberi.csproj.CoreCompileInputs.cache
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\4-Solid ve Desing Pattern\Solid\19.02\WFA_TelefonRehberi\WFA_TelefonRehberi\obj\Debug\WFA_TelefonRehberi.exe
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\4-Solid ve Desing Pattern\Solid\19.02\WFA_TelefonRehberi\WFA_TelefonRehberi\obj\Debug\WFA_TelefonRehberi.pdb

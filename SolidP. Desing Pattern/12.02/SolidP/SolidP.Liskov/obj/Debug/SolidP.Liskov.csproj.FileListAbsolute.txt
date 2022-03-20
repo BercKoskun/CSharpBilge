@@ -1,0 +1,6 @@
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\4-Solid ve Desing Pattern\Solid\12.02\SolidP\SolidP.Liskov\bin\Debug\SolidP.Liskov.dll
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\4-Solid ve Desing Pattern\Solid\12.02\SolidP\SolidP.Liskov\bin\Debug\SolidP.Liskov.pdb
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\4-Solid ve Desing Pattern\Solid\12.02\SolidP\SolidP.Liskov\obj\Debug\SolidP.Liskov.csproj.AssemblyReference.cache
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\4-Solid ve Desing Pattern\Solid\12.02\SolidP\SolidP.Liskov\obj\Debug\SolidP.Liskov.csproj.CoreCompileInputs.cache
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\4-Solid ve Desing Pattern\Solid\12.02\SolidP\SolidP.Liskov\obj\Debug\SolidP.Liskov.dll
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\4-Solid ve Desing Pattern\Solid\12.02\SolidP\SolidP.Liskov\obj\Debug\SolidP.Liskov.pdb

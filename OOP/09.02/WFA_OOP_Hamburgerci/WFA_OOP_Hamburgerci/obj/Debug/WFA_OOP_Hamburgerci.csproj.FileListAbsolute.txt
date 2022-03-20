@@ -1,0 +1,10 @@
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Şubat\09.02\WFA_OOP_Hamburgerci\WFA_OOP_Hamburgerci\bin\Debug\WFA_OOP_Hamburgerci.exe.config
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Şubat\09.02\WFA_OOP_Hamburgerci\WFA_OOP_Hamburgerci\bin\Debug\WFA_OOP_Hamburgerci.exe
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Şubat\09.02\WFA_OOP_Hamburgerci\WFA_OOP_Hamburgerci\bin\Debug\WFA_OOP_Hamburgerci.pdb
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Şubat\09.02\WFA_OOP_Hamburgerci\WFA_OOP_Hamburgerci\obj\Debug\WFA_OOP_Hamburgerci.csproj.AssemblyReference.cache
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Şubat\09.02\WFA_OOP_Hamburgerci\WFA_OOP_Hamburgerci\obj\Debug\WFA_OOP_Hamburgerci.Form1.resources
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Şubat\09.02\WFA_OOP_Hamburgerci\WFA_OOP_Hamburgerci\obj\Debug\WFA_OOP_Hamburgerci.Properties.Resources.resources
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Şubat\09.02\WFA_OOP_Hamburgerci\WFA_OOP_Hamburgerci\obj\Debug\WFA_OOP_Hamburgerci.csproj.GenerateResource.cache
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Şubat\09.02\WFA_OOP_Hamburgerci\WFA_OOP_Hamburgerci\obj\Debug\WFA_OOP_Hamburgerci.csproj.CoreCompileInputs.cache
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Şubat\09.02\WFA_OOP_Hamburgerci\WFA_OOP_Hamburgerci\obj\Debug\WFA_OOP_Hamburgerci.exe
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Şubat\09.02\WFA_OOP_Hamburgerci\WFA_OOP_Hamburgerci\obj\Debug\WFA_OOP_Hamburgerci.pdb

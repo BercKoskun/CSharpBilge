@@ -1,0 +1,10 @@
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Ocak\23.01\WFA_KapsullemeOrnek\WFA_KapsullemeOrnek\bin\Debug\WFA_KapsullemeOrnek.exe.config
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Ocak\23.01\WFA_KapsullemeOrnek\WFA_KapsullemeOrnek\bin\Debug\WFA_KapsullemeOrnek.exe
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Ocak\23.01\WFA_KapsullemeOrnek\WFA_KapsullemeOrnek\bin\Debug\WFA_KapsullemeOrnek.pdb
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Ocak\23.01\WFA_KapsullemeOrnek\WFA_KapsullemeOrnek\obj\Debug\WFA_KapsullemeOrnek.csproj.AssemblyReference.cache
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Ocak\23.01\WFA_KapsullemeOrnek\WFA_KapsullemeOrnek\obj\Debug\WFA_KapsullemeOrnek.Form1.resources
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Ocak\23.01\WFA_KapsullemeOrnek\WFA_KapsullemeOrnek\obj\Debug\WFA_KapsullemeOrnek.Properties.Resources.resources
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Ocak\23.01\WFA_KapsullemeOrnek\WFA_KapsullemeOrnek\obj\Debug\WFA_KapsullemeOrnek.csproj.GenerateResource.cache
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Ocak\23.01\WFA_KapsullemeOrnek\WFA_KapsullemeOrnek\obj\Debug\WFA_KapsullemeOrnek.csproj.CoreCompileInputs.cache
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Ocak\23.01\WFA_KapsullemeOrnek\WFA_KapsullemeOrnek\obj\Debug\WFA_KapsullemeOrnek.exe
+C:\Users\ridvan.aksoy\Desktop\YZL 3432 .Net Eğitimi\3-Object Orianted Programing\Ocak\23.01\WFA_KapsullemeOrnek\WFA_KapsullemeOrnek\obj\Debug\WFA_KapsullemeOrnek.pdb
